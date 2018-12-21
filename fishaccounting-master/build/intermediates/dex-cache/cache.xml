@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\fishaccounting-master(6)\fishaccounting-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d9154eef8072db047d7020d41b71fd875c76b7">
+        <dex dex="D:\fishaccounting-master(6)\fishaccounting-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bcf20e2f5aa322ca12f3b84d1fd93ac4b3e25a8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\fishaccounting-master(6)\fishaccounting-master\app\libs\ocr-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c27414b0aaebf138ad149373556fbac40b85a633">
+        <dex dex="D:\fishaccounting-master(6)\fishaccounting-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\ocr-sdk_f1209abd837948ab5dfddd4be219533c58f5c09a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\fishaccounting-master(6)\fishaccounting-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="D:\fishaccounting-master(6)\fishaccounting-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f5feec1480f2b5451a7fea1c2cbbd4929eed3de9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\fishaccounting-master(6)\fishaccounting-master\ocr_ui\build\intermediates\bundles\default\libs\license.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eca3cb381d01815bb3cec10d215f5d6ba1b2308d">
+        <dex dex="D:\fishaccounting-master(6)\fishaccounting-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\license_2dfe42743152e4523ebb160b630a47f44d80a763\classes.dex" />
+    </item>
+
+</items>

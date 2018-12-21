@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.getbase:floatingactionbutton-1.10.1">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.android/build-cache/e07d79f229bd1944fe719aad79fbadea930a8eea/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e07d79f229bd1944fe719aad79fbadea930a8eea/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e07d79f229bd1944fe719aad79fbadea930a8eea/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
